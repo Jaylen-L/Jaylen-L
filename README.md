@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Student at the Unversity of Oklahoma
+Major: Computer Engineering
+Minor: Computer Science
